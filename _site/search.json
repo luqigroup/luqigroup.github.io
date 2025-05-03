@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "LUQI Group",
+    "section": "Research",
+    "text": "Research\nOur research tackles uncertainty quantification in complex systems arising in computational science and engineering, with a focus on building reliable, uncertainty-aware AI systems. To this end, we develop methods that leverage tools like generative models, variational inference, and hypernetworks to characterize uncertainty in complex models at scale, with implications for large-scale, PDE-based inverse problems."
+  },
+  {
+    "objectID": "index.html#team",
+    "href": "index.html#team",
+    "title": "LUQI Group",
+    "section": "Team",
+    "text": "Team\nAli Siahkoohi — Assistant Professor, CS & ECE departments\nAnirudh Thatipelli — PhD student, CS department\nDavide Sabeddu — PhD student, ECE department"
+  }
+]
