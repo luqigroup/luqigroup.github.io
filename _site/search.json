@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "LUQI Group",
+    "section": "Research",
+    "text": "Research\nOur research focuses on uncertainty quantification in complex systems that arise in computational science and engineering, with an emphasis on deep generative modeling. By integrating deep learning and scientific computing, the LUQI group develops scalable sampling techniques for high-dimensional distributions. This work enables Bayesian inference in large-scale PDE-based inverse problems (e.g., seismic and medical imaging) and provides a principled framework for building reliable, uncertainty-aware AI models for real-world applications."
+  },
+  {
+    "objectID": "index.html#team",
+    "href": "index.html#team",
+    "title": "LUQI Group",
+    "section": "Team",
+    "text": "Team\n\nAli Siahkoohi, Assistant Professor, CS department\nAnirudh Thatipelli, PhD student, CS department\nDavide Sabeddu, PhD student, ECE department"
+  }
+]

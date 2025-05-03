@@ -1,0 +1,54 @@
+---
+title: LUQI Group
+subtitle: Laboratory for Uncertainty Quantification and Inference
+description: |
+  Department of Computer Science<br>
+  University of Central Florida<br>
+  Orlando, FL, USA<br>
+
+  [[SPRK 212](https://maps.app.goo.gl/sQDSjpikukU6ykPo9)] &ensp; [[GitHub](https://github.com/luqigroup)]
+
+navbar: false
+about:
+  id: heading
+  template: solana
+  image: files/luqi-with-text.png
+  image-shape: round
+  image-width: 215px
+---
+
+:::{#heading}
+:::
+
+
+<!-- <div style="
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 10px 0; /* Adds vertical spacing without excessive whitespace */
+">
+  <span style="
+    background-color: #fdfbd3;
+    color: #373a3c;
+    border: 1px solid #727475;
+    padding: 6px;
+    border-radius: 5px;
+    display: inline-block;
+    max-width: 100%;
+    word-wrap: break-word;
+    text-align: center;
+  ">
+    <strong>Reach out to [Ali Siahkoohi](http://alisiahkoohi.github.io/) if interested to join the LUQI group!</strong>
+  </span>
+</div> -->
+
+## Research
+
+Our research focuses on uncertainty quantification in complex systems that arise in computational science and engineering, with an emphasis on deep generative modeling. By integrating deep learning and scientific computing, the LUQI group develops scalable sampling techniques for high-dimensional distributions. This work enables Bayesian inference in large-scale PDE-based inverse problems (e.g., seismic and medical imaging) and provides a principled framework for building reliable, uncertainty-aware AI models for real-world applications.
+
+## Team
+
+- [Ali Siahkoohi](https://alisiahkoohi.github.io/), Assistant Professor, CS department
+- [Anirudh Thatipelli](https://scholar.google.com/citations?user=siY4W9gAAAAJ), PhD student, CS department
+- [Davide Sabeddu](https://davide-sabeddu.github.io/Portfolio/), PhD student, ECE department
+
