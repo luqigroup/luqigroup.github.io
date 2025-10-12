@@ -4,13 +4,13 @@
     "href": "index.html#research",
     "title": "LUQI Group",
     "section": "Research",
-    "text": "Research\nOur research tackles uncertainty quantification in complex systems arising in computational science and engineering. Our approach involves integrating generative modeling and scientific computing to develop scalable sampling techniques for high-dimensional distributions. This work enables Bayesian inference in large-scale PDE-based inverse problems (e.g., seismic and medical imaging) and provides a principled approach to designing reliable, uncertainty-aware AI models for real-world applications."
+    "text": "Research\nOur research focuses on uncertainty quantification in complex systems that arise in computational science and engineering. The LUQI group integrates generative modeling with scientific computing to develop scalable sampling techniques for high-dimensional distributions. This work enables Bayesian inference in large-scale PDE-based inverse problems (e.g., seismic and medical imaging) and provides a principled framework for building reliable, uncertainty-aware AI models for real-world applications."
   },
   {
     "objectID": "index.html#team",
     "href": "index.html#team",
     "title": "LUQI Group",
     "section": "Team",
-    "text": "Team\nAli Siahkoohi — Assistant Professor, CS department\nAnirudh Thatipelli — PhD student, CS department\nDavide Sabeddu — PhD student, ECE department"
+    "text": "Team\n\nAli Siahkoohi, Assistant Professor, CS department\n\nAnirudh Thatipelli, PhD student, CS department\n\nDavide Sabeddu, PhD student, ECE department"
   }
 ]
