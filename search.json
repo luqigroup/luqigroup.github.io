@@ -11,6 +11,13 @@
     "href": "index.html#team",
     "title": "LUQI Group",
     "section": "Team",
-    "text": "Team\n\nAli Siahkoohi, Assistant Professor, CS department\n\nAnirudh Thatipelli, PhD student, CS department\n\nDavide Sabeddu, PhD student, ECE department"
+    "text": "Team\n\nAli Siahkoohi, Assistant Professor, CS department\nAnirudh Thatipelli, PhD student, CS department\nDavide Sabeddu, PhD student, ECE department"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "LUQI Group",
+    "section": "Publications",
+    "text": "Publications\n\nPresentations\nMulti-scale clustering and source separation of InSight mission seismic data\nA. Siahkoohi, R. Morel, R. Balestriero, E. Allys, G. Sainton, T. Kawamura, and M. V. de Hoop\nUCF AI for All Research Day, 2026.\n[abstract] [poster] [slides] [code] [bib]\nConditional neural control variates for variance reduction in Bayesian inverse problems\nA. Siahkoohi and H. Oh\nUCF AI for All Research Day, 2026.\n[abstract] [poster] [bib]\nStein variational gradient descent in the dual space via modified ADMM for uncertainty quantification\nA. Siahkoohi, K. Aghazade, and A. Gholami\nUCF AI for All Research Day, 2026.\n[abstract] [poster] [bib]\nHypernetwork-based approach for grid-independent functional data clustering\nA. Thatipelli and A. Siahkoohi\nUCF AI for All Research Day, 2026.\n[abstract] [poster] [bib]\nLow-memory stochastic backpropagation with multi-channel randomized trace estimation\nA. Thatipelli, J. J. Sam, M. Louboutin, A. Siahkoohi, R. Wang, and F. J. Herrmann\nUCF AI for All Research Day, 2026.\n[abstract] [poster] [bib]\nSmoothness imposing pseudo supervision for mitigating memorization in diffusion models\nD. Sabeddu, A. Siahkoohi, and L. Luzi\nUCF AI for All Research Day, 2026.\n[abstract] [poster] [bib]"
   }
 ]
