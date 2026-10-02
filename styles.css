@@ -19,3 +19,15 @@ a:hover, a:focus {
   height: 30px;
 }
 
+
+/* Re-centre the header logo on narrow screens (phones).
+   Quarto 1.10 emits `div.quarto-about-solana .about-entity { align-items: start }`
+   after its own `@media (max-width: 991.98px) { ... align-items: center }`, so
+   `start` wins at every width and pushes the logo against the left edge.
+   styles.css loads last, so restating the rule here is enough and needs no
+   !important. */
+@media (max-width: 991.98px) {
+  div.quarto-about-solana .about-entity {
+    align-items: center;
+  }
+}
