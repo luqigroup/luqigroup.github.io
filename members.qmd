@@ -1,0 +1,12 @@
+---
+title: "Team members"
+body-classes: members
+---
+
+- [Ali Siahkoohi](https://alisiahkoohi.github.io/), Assistant Professor, *CS department*
+- [Banafsheh Adami](https://scholar.google.com/citations?user=qcURpaYAAAAJ), PhD student, *CS department*, co-advised with [Alain Kassab](https://mae.ucf.edu/person/alain-kassab/) (Fall 2026–present)
+- [Anirudh Thatipelli](https://scholar.google.com/citations?user=siY4W9gAAAAJ), PhD student, *CS department* (Summer 2025–present)
+
+### Former members
+
+- [Davide Sabeddu](https://davide-sabeddu.github.io/Portfolio/), PhD student, *ECE department* (Fall 2025–Summer 2026)

@@ -1,0 +1,8 @@
+---
+title: "Research"
+body-classes: research
+---
+
+Our research focuses on uncertainty quantification in computational science and engineering, specifically high-dimensional probabilistic modeling and inference for physical systems.
+
+For a full list of publications, see [here](https://alisiahkoohi.github.io/research.html).
