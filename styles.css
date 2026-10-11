@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Noticia+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
 ul {
   margin-left: 0em;   /* default is around 2em */
   padding-left: 1.2em;
@@ -31,3 +33,16 @@ a:hover, a:focus {
     align-items: center;
   }
 }
+
+
+/* Type and colours as on alisiahkoohi.github.io (theme colours: custom.scss, custom_dark.scss). */
+/* Lists: the small right triangle (\blacktriangleright) in place of round bullets. */
+main ul { list-style: none; }
+main ul > li { position: relative; }
+main ul > li::before { content: "\25B8"; position: absolute; left: -1.1em; }
+main ul ul > li::before { content: "\25B9"; }
+
+/* Contents column, as the menu there: larger text, an orange 2px marker on the current section. */
+.sidebar nav[role=doc-toc] > ul { font-size: 1.05rem; }
+.sidebar nav[role=doc-toc] > ul li a { line-height: 1.5; padding-top: .15rem; padding-bottom: .15rem; }
+.sidebar nav[role=doc-toc] > ul > li > a.active { border-left-width: 2px; padding-left: calc(.6rem - 1px); }
